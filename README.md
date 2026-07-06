@@ -135,31 +135,31 @@ The project includes several visualizations to better understand the EEG data an
 
 #### Feature Distribution
 
-![Histogram](images/histogram.png)
+![Histogram](images/eeg_channel_distribution.png)
 
 ---
 
 #### Outlier Detection
 
-![Boxplot](images/boxplot.png)
+![Boxplot](images/eeg_channel_boxplots.png)
 
 ---
 
 #### Logistic Regression Confusion Matrix
 
-![Logistic Regression](images/confusion_matrix_logistic_regression.png)
+![Logistic Regression](images/logistic_regression_confusion_matrix.png)
 
 ---
 
 #### Random Forest Confusion Matrix
 
-![Random Forest](images/confusion_matrix_random_forest.png)
+![Random Forest](images/random_forest_confusion_matrix.png)
 
 ---
 
 #### ROC Curve Comparison
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](images/roc_curve_comparison.png)
 
 ---
 
