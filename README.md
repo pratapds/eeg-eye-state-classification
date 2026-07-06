@@ -127,6 +127,46 @@ The project includes several visualizations to better understand the EEG data an
 
 ---
 
+#### Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+---
+
+#### Feature Distribution
+
+![Histogram](images/histogram.png)
+
+---
+
+#### Outlier Detection
+
+![Boxplot](images/boxplot.png)
+
+---
+
+#### Logistic Regression Confusion Matrix
+
+![Logistic Regression](images/confusion_matrix_logistic_regression.png)
+
+---
+
+#### Random Forest Confusion Matrix
+
+![Random Forest](images/confusion_matrix_random_forest.png)
+
+---
+
+#### ROC Curve Comparison
+
+![ROC Curve](images/roc_curve.png)
+
+---
+
+#### Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
 #### How to Run the Project
 
 1. Clone the repository.
