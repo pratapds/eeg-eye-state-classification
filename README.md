@@ -237,3 +237,5 @@ Possible future enhancements include:
 Aspiring Data Scientist | Machine Learning Enthusiast | Biomedical AI Learner
 
 This project is part of my Data Science Portfolio, showcasing practical applications of machine learning in EEG signal analysis and healthcare.
+
+If you found this project interesting, consider giving the repository a ⭐ on GitHub.
